@@ -1,0 +1,4 @@
+# torrc
+SOCKSPort 0.0.0.0:9050
+Log notice file /var/log/tor/log
+RunAsDaemon 0
